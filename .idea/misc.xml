@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mikasa/AndroidStudioProjects/TestSmartCityApplication/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.208" />
+        <entry key="..\:/Users/Mikasa/AndroidStudioProjects/TestSmartCityApplication/app/src/main/res/drawable/mysearch.xml" value="0.208" />
+        <entry key="..\:/Users/Mikasa/AndroidStudioProjects/TestSmartCityApplication/app/src/main/res/layout/activity_main.xml" value="0.20316027088036118" />
+        <entry key="..\:/Users/Mikasa/AndroidStudioProjects/TestSmartCityApplication/app/src/main/res/layout/fragment_home.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/Mikasa/AndroidStudioProjects/TestSmartCityApplication/app/src/main/res/layout/fragment_other.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Mikasa/AndroidStudioProjects/TestSmartCityApplication/app/src/main/res/layout/hot_layout.xml" value="0.3115942028985507" />
+        <entry key="..\:/Users/Mikasa/AndroidStudioProjects/TestSmartCityApplication/app/src/main/res/layout/news_layout.xml" value="0.13" />
+        <entry key="..\:/Users/Mikasa/AndroidStudioProjects/TestSmartCityApplication/app/src/main/res/layout/service_layout.xml" value="0.1875" />
+        <entry key="..\:/Users/Mikasa/AndroidStudioProjects/TestSmartCityApplication/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
